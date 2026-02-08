@@ -30,6 +30,4 @@ docker run -it --rm -p 5678:5678 n8nio/n8n
 ✔ Content is compulsory  
 ✔ Screenshots are optional but give extra marks
 
----
 
-If you want, I can rewrite your README perfectly with both methods included so you can just paste it 😄
