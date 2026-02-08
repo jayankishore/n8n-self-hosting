@@ -23,11 +23,5 @@ docker run -it --rm -p 5678:5678 n8nio/n8n
 
 	3.	Open: http://localhost:5678
 
----
-
-# ✅ Final Suggestion
-
-✔ Content is compulsory  
-✔ Screenshots are optional but give extra marks
 
 
